@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oquendojair
+- 👋 Hi, I’m @oquendojair10
 - 👀 I’m interested in learn web technologies
 - 🌱 I’m currently learning frontend & backend
 - 💞️ I’m looking to collaborate on ...
